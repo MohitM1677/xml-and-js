@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tables>
+    <headings>
+        <heading>Empno</heading>
+        <heading>Empname</heading>
+        <heading>Salary</heading>
+    </headings>
+    <Details>
+        <Number>1001</Number>
+        <name>Alex</name>
+        <Salary>3000</Salary>
+    </Details>
+    <Details>
+        <Number>1002</Number>
+        <name>Sarah</name>
+        <Salary>4000</Salary>
+    </Details>
+    <Details>
+        <Number>1003</Number>
+        <name>Peter</name>
+        <Salary>3500</Salary>
+    </Details> 
+</tables>
